@@ -445,6 +445,9 @@ text-transform: capitalize;
     max-width: 50%;
     margin-top: 30px;
  }
+ .about .about-content .education .timeline-date{
+    color: var(--text-black-900);
+ }
  .about .about-content h3.title
  {
     font-size: 24px;
@@ -587,7 +590,7 @@ text-transform: capitalize;
 .service .service-item .service-item-inner p
 {
 font-size: 16px;
-color: var(--bg-black-700);
+color: var(--text-black-700);
 line-height: 25px;
 }
 /* portfolio */
